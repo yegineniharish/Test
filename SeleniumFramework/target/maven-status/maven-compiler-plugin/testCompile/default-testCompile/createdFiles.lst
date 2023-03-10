@@ -1,0 +1,5 @@
+com\projectName\pages\ShoppingCartPage.class
+com\projectName\testscripts\Register.class
+com\projectName\pages\LoginPage.class
+com\projectName\base\TestBase.class
+com\projectName\pages\RegisterPage.class
